@@ -1,0 +1,8 @@
+numpy
+matplotlib
+keras
+tensorflow
+opencv-python
+tensorflow-datasets
+scikit-learn
+nltk

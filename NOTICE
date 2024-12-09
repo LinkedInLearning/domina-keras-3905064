@@ -1,11 +1,51 @@
-Copyright 2024 LinkedIn Corporation
+Copyright 2025 LinkedIn Corporation
 All Rights Reserved.
 
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+-------------------  
+**numpy**  
+https://github.com/pypi/numpy  
+License: BSD-3-Clause  
+https://opensource.org/licenses/BSD-3-Clause  
+-------------------  
+**opencv-python**  
+https://github.com/pypi/opencv-python  
+License: MIT  
+https://opensource.org/licenses/MIT  
+-------------------  
+**matplotlib**  
+https://github.com/pypi/matplotlib  
+License: Matplotlib  
+https://matplotlib.org/stable/users/license.html  
+-------------------  
+**tensorflow**  
+https://github.com/pypi/tensorflow  
+License: Apache 2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+-------------------  
+**scikit-learn**  
+https://github.com/pypi/scikit-learn  
+License: BSD-3-Clause  
+https://opensource.org/licenses/BSD-3-Clause  
+-------------------  
+**keras**  
+https://github.com/pypi/keras  
+License: MIT  
+https://opensource.org/licenses/MIT  
+-------------------  
+**nltk**  
+https://github.com/pypi/nltk  
+License: Apache 2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+-------------------  
+**tensorflow-datasets**  
+https://github.com/pypi/tensorflow-datasets  
+License: Apache 2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+------------------- 
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 

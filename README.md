@@ -1,13 +1,12 @@
 # Domina Keras
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Keras`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Aprende a construir y entrenar modelos de aprendizaje profundo utilizando Keras. Este curso, diseñado para profesionales de la programación, análisis de datos, ingeniería de datos y ciencia de datos, te guía en la solución de problemas específicos mediante Keras. Explora desde modelos básicos de clasificación y regresión hasta el modelado secuencial y de series temporales, y profundiza en modelos avanzados y generativos. Desarrolla habilidades prácticas para optimizar tus proyectos de aprendizaje profundo y lleva tus capacidades en inteligencia artificial al siguiente nivel.
 
 ## Instrucciones
 
@@ -74,7 +73,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-keras
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGIQjgwbDEtHg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733307828935?e=2147483647&v=beta&t=khAupzV59zDLchZCQWLf41huUqqqx6FotsDbHwoMpu4
 
 [1]: # (End of ES-Instruction ###############################################################################################)
